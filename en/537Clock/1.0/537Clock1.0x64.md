@@ -198,7 +198,7 @@ This software is a portable program. After downloading, it can be used immediate
 
 · Sean537
 
-> This document was last updated on **January 15, 2025**.
+> This document was last updated on **January 17, 2025**.
 >
 > Document author: Sean537
 > 

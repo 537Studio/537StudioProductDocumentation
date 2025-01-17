@@ -16,6 +16,20 @@
 
 It is designed for convenient timing, time viewing, and Unix timestamp checking.
 
+![537Clock1.0Introduction](../../../image/537Clock/1.0/537Clock_1.0_Introduction.png "537Clock1.0Introduction")
+
+### Size
+
+- 64-bit: 1.84MB
+- 64-bit without any resource files: 66.4KB
+
+### Release Date
+
+- 64-bit: December 31st, 2023
+- 64-bit without any resource files: January 17th, 2025
+
+> The 32-bit version has not been released, but users can compile it themselves.
+
 ### Philosophy: Less is More
 
 The design philosophy of the software is to **create an excellent user experience**. The software features icons built with characters and a user-friendly interface, allowing adjustment of the console foreground color (text color). Its interactive experience surpasses that of most command-line programs. For instance, while selecting menu functions, typical command-line programs require users to input text and press Enter. In contrast, 537 Clock cleverly employs a keyboard listening algorithm. When the software window is active, pressing a key on the keyboard will elicit an immediate response. This greatly facilitates the use of the software. For example, during the timing period, if the user long-presses the spacebar for about 1 second (long press to avoid accidental touches), the software will quickly open a pause panel with character animations, displaying functions such as reset and color adjustment. If the user then presses the corresponding function key (not a long press), the software will perform the related operation.
@@ -80,24 +94,9 @@ If the user accidentally presses the spacebar or just wants to pause the timing,
 
 To exit the software, press the “ **q** ” key in the pause panel. After exiting, the timing duration and color settings will not be saved.
 
-### Size
-
-- 64-bit: 1.84MB
-- 64-bit without any resource files: 66.4KB
-
-### Release Date
-
-- 64-bit: December 31st, 2023
-- 64-bit without any resource files: January 17th, 2025
-
-> The 32-bit version has not been released, but users can compile it themselves.
-
-### Preview
-
-![537Clock1.0Introduction](../../../image/537Clock/1.0/537Clock_1.0_Introduction.png "537Clock1.0Introduction")
-
+<!--
 ![537Clock1.0Attribute](../../../image/537Clock/1.0/537Clock_1.0_Attribute.png "537Clock1.0Attribute")
-
+-->
 
 ## Download
 
@@ -110,6 +109,11 @@ If you encounter any issues accessing the download links, please check the valid
 ## Installation
 
 This software is a portable program. After downloading, it can be used immediately and can be moved around as a regular file.
+
+### Compatibility Requirements
+
+- 64-bit: Windows XP x64 Edition and Windows Server 2003 x64 (2005) and above 64-bit Windows operating systems
+- 32-bit: WindowsXP Server Pack 1 x86 (2001) and above 32-bit and 64-bit Windows operating systems
 
 ## Help
 

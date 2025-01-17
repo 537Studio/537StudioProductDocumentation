@@ -82,11 +82,13 @@ To exit the software, press the “ **q** ” key in the pause panel. After exit
 
 ### Size
 
-- Size: 1.84MB
+- 64-bit: 1.84MB
+- 64-bit without any resource files: 66.4KB
 
 ### Release Date
 
-- 64-bit: December 31, 2023
+- 64-bit: December 31st, 2023
+- 64-bit without any resource files: January 17th, 2025
 
 > The 32-bit version has not been released, but users can compile it themselves.
 
